@@ -1,0 +1,299 @@
+{
+  "recepies": [
+    {
+      "id": "001000",
+      "index": 0,
+      "picture": "pic/1 avocado.jpg",
+      "title": "Avocado Tost",
+      "description": "dolor proident tempor ullamco eiusmod reprehenderit fugiat est commodo aliqua",
+      "tags": [
+        "#vegan",
+        "#fresh"
+      ],
+      "level": 2,
+      "time": 1,
+      "dirPicFirst": "pic/1/4.jpg",
+      "dirPicSecond": "pic/1/2.jpg",
+      "dirPicThird": "pic/1/3.jpg",
+      "dirPicFourth": "pic/1/1.jpg",
+      "dirIngredientFirst": "One ripe avocado, halved, pitted and peeled",
+      "dirIngredientSecond": "Fine salt and freshly ground black pepper",
+      "dirIngredientThird": "4 slices whole grain or whole wheat bread",
+      "dirIngredientFourth": "1 clove garlic, peeled and halved",
+      "dirIngredientFifth": "2 tablespoons extra-virgin olive oil or unsalted butter",
+      "dirIngredientSixth": "Flaky sea salt, for serving",
+      "dirIngredientSeventh": "Crushed red pepper flakes, optional",
+      "directions": [
+        "Mash the avocado with a fork in a shallow bowl until chunky. Season with fine salt and black pepper. Toast the bread until browned and crisp. Lightly rub 1 side of each slice with the cut side of the garlic until fragrant; discard the garlic. Lightly brush the toasts with oil, and season with fine salt and pepper. Divide the mashed avocado evenly among the toasts, and top with more flaky sea salt, more black pepper and red pepper flakes if using.",
+        "Mash the avocado with a fork in a shallow bowl until chunky. Season with fine salt and black pepper. Toast the bread until browned and crisp. Lightly rub 1 side of each slice with the cut side of the garlic until fragrant; discard the garlic. Lightly brush the toasts with oil, and season with fine salt and pepper. Divide the mashed avocado evenly among the toasts, and top with more flaky sea salt, more black pepper and red pepper flakes if using."
+      ]
+    },
+    {
+      "id": "001001",
+      "index": 1,
+      "picture": "pic/2 pizza.jpg",
+      "title": "Papperoni Pizza",
+      "description": "Lorem esse pariatur amet ut ut ullamco do quis dolore",
+      "tags": [
+        "#meat",
+        "#companymeal"
+      ],
+      "level": 2,
+      "time": 2,
+      "dirPicFirst": "pic/2/1.jpg",
+      "dirPicSecond": "pic/2/2.jpg",
+      "dirPicThird": "pic/2/3.jpg",
+      "dirPicFourth": "pic/2/4.jpg",
+      "dirIngredientFirst": "1 teaspoon sugar",
+      "dirIngredientSecond": "2 teaspoons active dry yeast",
+      "dirIngredientThird": "2 ½ cups warm water (600 mL)",
+      "dirIngredientFourth": "1 clove garlic, peeled and halved",
+      "dirIngredientFifth": "7 cups all-purpose flour (875 g)",
+      "dirIngredientSixth": "1 ½ teaspoons kosher salt",
+      "dirIngredientSeventh": "¼ cup semolina flour (30 g)",
+      "directions": [
+        "Bloom the yeast by sprinkling the sugar and yeast in the warm water. Let sit for 10 minutes, until bubbles form on the surface. In a large bowl, combine the flour and salt. Make a well in the middle and add the olive oil and bloomed yeast mixture. Using a spoon, mix until a shaggy dough begins to form.",
+        "Once the flour is mostly hydrated, turn the dough out onto a clean work surface and knead for 10-15 minutes. The dough should be soft, smooth, and bouncy. Form the dough into a taut round.",
+        "Grease a clean, large bowl with olive oil and place the dough inside, turning to coat with the oil. Cover with plastic wrap. Let rise for at least an hour, or up to 24 hours.",
+        "Preheat the oven as high as your oven will allow, between 450-500˚F (230-260˚C). Place a pizza stone, heavy baking sheet (turn upside down so the surface is flat), or cast iron skillet in the oven."
+      ]
+    },
+    {
+      "id": "001002",
+      "index": 2,
+      "picture": "pic/3 bowl.jpg",
+      "title": "Fruit Bowl",
+      "description": "commodo officia id veniam incididunt dolore anim occaecat proident duis",
+      "tags": [
+        "#vegan",
+        "#sweet"
+      ],
+      "level": 1,
+      "time": 3,
+      "dirPicFirst": "pic/3/1.jpg",
+      "dirPicSecond": "pic/3/2.jpg",
+      "dirPicThird": "pic/3/3.jpg",
+      "dirPicFourth": "pic/3/4.jpg",
+      "dirIngredientFirst": "8 cups fresh melon cubes",
+      "dirIngredientSecond": "1 to 2 tablespoons corn syrup",
+      "dirIngredientThird": "2 ½ cups warm water (600 mL)",
+      "dirIngredientFourth": "1 clove garlic, peeled and halved",
+      "dirIngredientFifth": "7 cups all-purpose flour (875 g)",
+      "dirIngredientSixth": "1 ½ teaspoons kosher salt",
+      "dirIngredientSeventh": "¼ cup semolina flour (30 g)",
+      "directions": [
+        "In a large bowl, combine melon cubes and corn syrup.",
+        "Cover and refrigerate overnight. Just before serving, stir in remaining fruit. Garnish with fresh mint leaves if desired.",
+        "In a large bowl, combine melon cubes and corn syrup.",
+        "Cover and refrigerate overnight. Just before serving, stir in remaining fruit. Garnish with fresh mint leaves if desired."
+      ]
+    },
+    {
+      "id": "001003",
+      "index": 3,
+      "picture": "pic/4 sliced-tomato.jpg",
+      "title": "Tomato Salad",
+      "description": "cupidatat minim ullamco minim nostrud incididunt id eu excepteur laboris",
+      "tags": [
+        "#vegan",
+        "#fresh"
+      ],
+      "level": 2,
+      "time": 1,
+      "dirPicFirst": "pic/4/1.jpg",
+      "dirPicSecond": "pic/4/2.jpg",
+      "dirPicThird": "pic/4/3.jpg",
+      "dirPicFourth": "pic/4/4.jpg",
+      "dirIngredientFirst": "8 cups fresh melon cubes",
+      "dirIngredientSecond": "1 to 2 tablespoons corn syrup",
+      "dirIngredientThird": "2 ½ cups warm water (600 mL)",
+      "dirIngredientFourth": "1 clove garlic, peeled and halved",
+      "dirIngredientFifth": "7 cups all-purpose flour (875 g)",
+      "dirIngredientSixth": "1 ½ teaspoons kosher salt",
+      "dirIngredientSeventh": "¼ cup semolina flour (30 g)",
+      "directions": [
+        "Broccoli salad is a classic summer cookout dish, but the traditional recipe is loaded up with sugar, ample mayo, bacon, and cheese.",
+        "Instead of using the typical 1 cup mayo: 2 tablespoons vinegar ratio for my broccoli salad dressing, I replace some of the mayo with olive oil and up the proportion of vinegar.",
+        "Not only do they add a wonderful crunch to this salad, but they also bring richness and smoky flavor, so they’re the perfect nutritious substitute for bacon and cheese.",
+        "A full pound of broccoli, chewy dried cranberries, and flecks of red onion round out this recipe – it’s SO fresh, healthy, and easy to make!"
+      ]
+    },
+    {
+      "id": "001004",
+      "index": 4,
+      "picture": "pic/5 steak.jpg",
+      "title": "Jusy Steak",
+      "description": "commodo reprehenderit laborum qui qui ut nulla enim laboris tempor",
+      "tags": [
+        "#meat"
+      ],
+      "level": 4,
+      "time": 4,
+      "dirPicFirst": "pic/3/1.jpg",
+      "dirPicSecond": "pic/3/2.jpg",
+      "dirPicThird": "pic/3/3.jpg",
+      "dirPicFourth": "pic/3/4.jpg",
+      "dirIngredientFirst": "8 cups fresh melon cubes",
+      "dirIngredientSecond": "1 to 2 tablespoons corn syrup",
+      "dirIngredientThird": "2 ½ cups warm water (600 mL)",
+      "dirIngredientFourth": "1 clove garlic, peeled and halved",
+      "dirIngredientFifth": "7 cups all-purpose flour (875 g)",
+      "dirIngredientSixth": "1 ½ teaspoons kosher salt",
+      "dirIngredientSeventh": "¼ cup semolina flour (30 g)",
+      "directions": [
+        "In a large bowl, combine melon cubes and corn syrup.",
+        "Cover and refrigerate overnight. Just before serving, stir in remaining fruit. Garnish with fresh mint leaves if desired.",
+        "In a large bowl, combine melon cubes and corn syrup.",
+        "Cover and refrigerate overnight. Just before serving, stir in remaining fruit. Garnish with fresh mint leaves if desired."
+      ]
+    },
+    {
+      "id": "001005",
+      "index": 5,
+      "picture": "pic/6 falafel.jpg",
+      "title": "True Falafel",
+      "description": "deserunt sit ad sint amet ut eiusmod ipsum incididunt tempor",
+      "tags": [
+        "#vegan"
+      ],
+      "level": 4,
+      "time": 3,
+      "dirPicFirst": "pic/4/1.jpg",
+      "dirPicSecond": "pic/4/2.jpg",
+      "dirPicThird": "pic/4/3.jpg",
+      "dirPicFourth": "pic/4/4.jpg",
+      "dirIngredientFirst": "8 cups fresh melon cubes",
+      "dirIngredientSecond": "1 to 2 tablespoons corn syrup",
+      "dirIngredientThird": "2 ½ cups warm water (600 mL)",
+      "dirIngredientFourth": "1 clove garlic, peeled and halved",
+      "dirIngredientFifth": "7 cups all-purpose flour (875 g)",
+      "dirIngredientSixth": "1 ½ teaspoons kosher salt",
+      "dirIngredientSeventh": "¼ cup semolina flour (30 g)",
+      "directions": [
+        "Broccoli salad is a classic summer cookout dish, but the traditional recipe is loaded up with sugar, ample mayo, bacon, and cheese.",
+        "Instead of using the typical 1 cup mayo: 2 tablespoons vinegar ratio for my broccoli salad dressing, I replace some of the mayo with olive oil and up the proportion of vinegar.",
+        "Not only do they add a wonderful crunch to this salad, but they also bring richness and smoky flavor, so they’re the perfect nutritious substitute for bacon and cheese.",
+        "A full pound of broccoli, chewy dried cranberries, and flecks of red onion round out this recipe – it’s SO fresh, healthy, and easy to make!"
+      ]
+    },
+    {
+      "id": "001006",
+      "index": 6,
+      "picture": "pic/7 pizza.jpg",
+      "title": "Italian Pizza",
+      "description": "pariatur aliqua tempor sit adipisicing aliqua eu eu excepteur et",
+      "tags": [
+        "#meat",
+        "#companymeal"
+      ],
+      "level": 2,
+      "time": 3,
+      "dirPicFirst": "pic/2/4.jpg",
+      "dirPicSecond": "pic/2/2.jpg",
+      "dirPicThird": "pic/2/3.jpg",
+      "dirPicFourth": "pic/2/1.jpg",
+      "dirIngredientFirst": "1 teaspoon sugar",
+      "dirIngredientSecond": "2 teaspoons active dry yeast",
+      "dirIngredientThird": "2 ½ cups warm water (600 mL)",
+      "dirIngredientFourth": "1 clove garlic, peeled and halved",
+      "dirIngredientFifth": "7 cups all-purpose flour (875 g)",
+      "dirIngredientSixth": "1 ½ teaspoons kosher salt",
+      "dirIngredientSeventh": "¼ cup semolina flour (30 g)",
+      "directions": [
+        "Bloom the yeast by sprinkling the sugar and yeast in the warm water. Let sit for 10 minutes, until bubbles form on the surface. In a large bowl, combine the flour and salt. Make a well in the middle and add the olive oil and bloomed yeast mixture. Using a spoon, mix until a shaggy dough begins to form.",
+        "Once the flour is mostly hydrated, turn the dough out onto a clean work surface and knead for 10-15 minutes. The dough should be soft, smooth, and bouncy. Form the dough into a taut round.",
+        "Grease a clean, large bowl with olive oil and place the dough inside, turning to coat with the oil. Cover with plastic wrap. Let rise for at least an hour, or up to 24 hours.",
+        "Preheat the oven as high as your oven will allow, between 450-500˚F (230-260˚C). Place a pizza stone, heavy baking sheet (turn upside down so the surface is flat), or cast iron skillet in the oven."
+      ]
+    },
+    {
+      "id": "001007",
+      "index": 7,
+      "picture": "pic/8 burger.jpg",
+      "title": "American Burger",
+      "description": "incididunt amet ea eiusmod reprehenderit amet aute duis aliquip elit",
+      "tags": [
+        "#meat"
+      ],
+      "level": 4,
+      "time": 2,
+      "dirPicFirst": "pic/3/1.jpg",
+      "dirPicSecond": "pic/3/2.jpg",
+      "dirPicThird": "pic/3/3.jpg",
+      "dirPicFourth": "pic/3/4.jpg",
+      "dirIngredientFirst": "8 cups fresh melon cubes",
+      "dirIngredientSecond": "1 to 2 tablespoons corn syrup",
+      "dirIngredientThird": "2 ½ cups warm water (600 mL)",
+      "dirIngredientFourth": "1 clove garlic, peeled and halved",
+      "dirIngredientFifth": "7 cups all-purpose flour (875 g)",
+      "dirIngredientSixth": "1 ½ teaspoons kosher salt",
+      "dirIngredientSeventh": "¼ cup semolina flour (30 g)",
+      "directions": [
+        "In a large bowl, combine melon cubes and corn syrup.",
+        "Cover and refrigerate overnight. Just before serving, stir in remaining fruit. Garnish with fresh mint leaves if desired.",
+        "In a large bowl, combine melon cubes and corn syrup.",
+        "Cover and refrigerate overnight. Just before serving, stir in remaining fruit. Garnish with fresh mint leaves if desired."
+      ]
+    },
+    {
+      "id": "001008",
+      "index": 8,
+      "picture": "pic/9 meat.jpg",
+      "title": "Sliced Meat",
+      "description": "anim amet nisi incididunt sit quis aliquip ullamco esse quis",
+      "tags": [
+        "#meat",
+        "#companymeal"
+      ],
+      "level": 3,
+      "time": 3,
+      "dirPicFirst": "pic/3/1.jpg",
+      "dirPicSecond": "pic/3/2.jpg",
+      "dirPicThird": "pic/3/3.jpg",
+      "dirPicFourth": "pic/3/4.jpg",
+      "dirIngredientFirst": "8 cups fresh melon cubes",
+      "dirIngredientSecond": "1 to 2 tablespoons corn syrup",
+      "dirIngredientThird": "2 ½ cups warm water (600 mL)",
+      "dirIngredientFourth": "1 clove garlic, peeled and halved",
+      "dirIngredientFifth": "7 cups all-purpose flour (875 g)",
+      "dirIngredientSixth": "1 ½ teaspoons kosher salt",
+      "dirIngredientSeventh": "¼ cup semolina flour (30 g)",
+      "directions": [
+        "In a large bowl, combine melon cubes and corn syrup.",
+        "Cover and refrigerate overnight. Just before serving, stir in remaining fruit. Garnish with fresh mint leaves if desired.",
+        "In a large bowl, combine melon cubes and corn syrup.",
+        "Cover and refrigerate overnight. Just before serving, stir in remaining fruit. Garnish with fresh mint leaves if desired."
+      ]
+    },
+    {
+      "id": "001010",
+      "index": 10,
+      "picture": "pic/11 pie.jpg",
+      "title": "Apple Pie",
+      "description": "labore adipisicing qui pariatur sit deserunt reprehenderit commodo incididunt nisi",
+      "tags": [
+        "#sweet",
+        "#companymeal"
+      ],
+      "level": 4,
+      "time": 2,
+      "dirPicFirst": "pic/3/1.jpg",
+      "dirPicSecond": "pic/3/2.jpg",
+      "dirPicThird": "pic/3/3.jpg",
+      "dirPicFourth": "pic/3/4.jpg",
+      "dirIngredientFirst": "8 cups fresh melon cubes",
+      "dirIngredientSecond": "1 to 2 tablespoons corn syrup",
+      "dirIngredientThird": "2 ½ cups warm water (600 mL)",
+      "dirIngredientFourth": "1 clove garlic, peeled and halved",
+      "dirIngredientFifth": "7 cups all-purpose flour (875 g)",
+      "dirIngredientSixth": "1 ½ teaspoons kosher salt",
+      "dirIngredientSeventh": "¼ cup semolina flour (30 g)",
+      "directions": [
+        "In a large bowl, combine melon cubes and corn syrup.",
+        "Cover and refrigerate overnight. Just before serving, stir in remaining fruit. Garnish with fresh mint leaves if desired.",
+        "In a large bowl, combine melon cubes and corn syrup.",
+        "Cover and refrigerate overnight. Just before serving, stir in remaining fruit. Garnish with fresh mint leaves if desired."
+      ]
+    }
+  ]
+}

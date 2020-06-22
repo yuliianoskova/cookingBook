@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CookingBook</title>
+    <link rel="stylesheet" href="css/myStyle.css">
+    <link rel="stylesheet" href="bs/css/bootstrap.min.css">
+
+</head>
+
+<body>
+
+    <!-- Main Navigation -->
+    <nav id="navContainer" class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
+        <a id="nav-brand" class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">Julia's Cooking Book</a>
+        <form class="form-inline theMt-2 mt-md-0" id="nav-form">
+            <input id="searchInput" class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+            <button id="searchBtn" class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+    </nav>
+
+    <!-- the body made with cards -->
+    <div id="contentContainer" class="contentContainer">
+        <div id="recepiesGrid" class="recepiesGrid">
+            <div id="recepiesList" class="recepiesList">
+            </div>
+        </div>
+    </div>
+
+
+    <!-- <script src="js/jquery.js"></script> -->
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+        integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+        crossorigin="anonymous"></script>
+    <script src="js/script.js"></script>
+</body>
+
+<foot>
+    <div class="footer">
+        <p>Enjoy your cooking and contact us...</p>
+        <div class="icons">
+            <label for="fb"><a href="#" class="link" id="fb"><img src="pic/ic1.png"></a></label>
+            <label for="twit"><a href="#" class="link" id="twit"><img src="pic/ic2.png"></a></label>
+            <label for="in"><a href="#" class="link" id="in"><img src="pic/ic3.png"></a></label>
+            <label for="youtube"><a href="#" class="link" id="youtube"><img src="pic/ic4.png"></a></label>
+            <label for="pin"><a href="#" class="link" id="pin"><img src="pic/ic5.png"></a></label>
+        </div>
+    </div>
+</foot>
+
+</html>
